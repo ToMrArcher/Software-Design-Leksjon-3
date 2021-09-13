@@ -1,0 +1,15 @@
+/Users/syverteidjord/Documents/Kristiania/Software Design/Leksjon 3/Blackjack/bin/Debug/net5.0/Blackjack.deps.json
+/Users/syverteidjord/Documents/Kristiania/Software Design/Leksjon 3/Blackjack/bin/Debug/net5.0/Blackjack.runtimeconfig.json
+/Users/syverteidjord/Documents/Kristiania/Software Design/Leksjon 3/Blackjack/bin/Debug/net5.0/Blackjack.runtimeconfig.dev.json
+/Users/syverteidjord/Documents/Kristiania/Software Design/Leksjon 3/Blackjack/bin/Debug/net5.0/Blackjack.dll
+/Users/syverteidjord/Documents/Kristiania/Software Design/Leksjon 3/Blackjack/bin/Debug/net5.0/ref/Blackjack.dll
+/Users/syverteidjord/Documents/Kristiania/Software Design/Leksjon 3/Blackjack/bin/Debug/net5.0/Blackjack.pdb
+/Users/syverteidjord/Documents/Kristiania/Software Design/Leksjon 3/Blackjack/obj/Debug/net5.0/Blackjack.csproj.AssemblyReference.cache
+/Users/syverteidjord/Documents/Kristiania/Software Design/Leksjon 3/Blackjack/obj/Debug/net5.0/Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/syverteidjord/Documents/Kristiania/Software Design/Leksjon 3/Blackjack/obj/Debug/net5.0/Blackjack.AssemblyInfoInputs.cache
+/Users/syverteidjord/Documents/Kristiania/Software Design/Leksjon 3/Blackjack/obj/Debug/net5.0/Blackjack.AssemblyInfo.cs
+/Users/syverteidjord/Documents/Kristiania/Software Design/Leksjon 3/Blackjack/obj/Debug/net5.0/Blackjack.csproj.CoreCompileInputs.cache
+/Users/syverteidjord/Documents/Kristiania/Software Design/Leksjon 3/Blackjack/obj/Debug/net5.0/Blackjack.dll
+/Users/syverteidjord/Documents/Kristiania/Software Design/Leksjon 3/Blackjack/obj/Debug/net5.0/ref/Blackjack.dll
+/Users/syverteidjord/Documents/Kristiania/Software Design/Leksjon 3/Blackjack/obj/Debug/net5.0/Blackjack.pdb
+/Users/syverteidjord/Documents/Kristiania/Software Design/Leksjon 3/Blackjack/obj/Debug/net5.0/Blackjack.genruntimeconfig.cache
